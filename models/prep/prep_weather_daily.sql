@@ -28,9 +28,6 @@ ORDER BY date
 
 
 
-# hello 
-
-
 
 
 
